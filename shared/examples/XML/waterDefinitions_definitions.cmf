@@ -1,0 +1,33 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!-- salt:d592c412-f19b-319c-a531-ead4825a55df -->
+<metadata name="waterDefinitions" path="/shared/examples/XML/waterDefinitions" type="DEFINITION_SET" subtype="XML_SCHEMA_DEFINITION_SET" changeToken="0">
+  <definitions>
+    <definition name="{http://twed.wra.gov.tw/twedml/opendata}TaiwanWaterExchangingData" type="ELEMENT">
+      <attribute name="creationDate" type="LONG">0</attribute>
+      <attribute name="creatorUserDomain" type="STRING"/>
+      <attribute name="creatorUserId" type="INTEGER">0</attribute>
+      <attribute name="creatorUserName" type="STRING"/>
+      <attribute name="lastModifiedDate" type="LONG">0</attribute>
+      <attribute name="lastModifiedUserDomain" type="STRING"/>
+      <attribute name="lastModifiedUserId" type="INTEGER">0</attribute>
+      <attribute name="lastModifiedUserName" type="STRING"/>
+      <attribute name="resourceModifiedDateOnSourceCISSite" type="LONG">0</attribute>
+    </definition>
+  </definitions>
+  <security>
+    <owner user="admin" domain="composite"/>
+  </security>
+  <attribute name="XMLFilePath" type="OBJECT">rO0ABXNyACZjb20uY29tcG9zaXRlc3cuY29tbW9uLnJlcG9zaXRvcnkuUGF0aEAIAgnmFDg4AgACWgAIYWJzb2x1dGVMAAVwYXJ0c3QAEExqYXZhL3V0aWwvTGlzdDt4cAFzcgATamF2YS51dGlsLkFycmF5TGlzdHiB0h2Zx2GdAwABSQAEc2l6ZXhwAAAABHcEAAAABHQABnNoYXJlZHQACGV4YW1wbGVzdAADWE1MdAAJd2F0ZXIueG1seA==</attribute>
+  <attribute name="creationDate" type="LONG">1685463328956</attribute>
+  <attribute name="creatorUserDomain" type="STRING">composite</attribute>
+  <attribute name="creatorUserId" type="INTEGER">-1973</attribute>
+  <attribute name="creatorUserName" type="STRING">admin</attribute>
+  <attribute name="lastModifiedDate" type="LONG">1685463328956</attribute>
+  <attribute name="lastModifiedUserDomain" type="STRING">composite</attribute>
+  <attribute name="lastModifiedUserId" type="INTEGER">-1973</attribute>
+  <attribute name="lastModifiedUserName" type="STRING">admin</attribute>
+  <attribute name="resourceModifiedDateOnSourceCISSite" type="LONG">1685463328956</attribute>
+  <attribute name="sources" type="LIST">
+    <list type="OBJECT">rO0ABXNyADVjb20uY29tcG9zaXRlc3cuY29tbW9uLnJlcG9zaXRvcnkuRGVmaW5pdGlvblNldFNvdXJjZVYpv6Zr2hqJAgACTAAIbG9jYXRpb250ABJMamF2YS9sYW5nL1N0cmluZztMAApzb3VyY2VUZXh0cQB+AAF4cHQAC3NjaGVtYV9iYXNldAQiPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48eHM6c2NoZW1hIHhtbG5zOnhzPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgeG1sbnM9Imh0dHA6Ly90d2VkLndyYS5nb3YudHcvdHdlZG1sL29wZW5kYXRhIiBhdHRyaWJ1dGVGb3JtRGVmYXVsdD0idW5xdWFsaWZpZWQiIGVsZW1lbnRGb3JtRGVmYXVsdD0icXVhbGlmaWVkIiB0YXJnZXROYW1lc3BhY2U9Imh0dHA6Ly90d2VkLndyYS5nb3YudHcvdHdlZG1sL29wZW5kYXRhIj4KICA8eHM6ZWxlbWVudCBuYW1lPSJUYWl3YW5XYXRlckV4Y2hhbmdpbmdEYXRhIj4KICAgIDx4czpjb21wbGV4VHlwZT4KICAgICAgPHhzOnNlcXVlbmNlPgogICAgICAgIDx4czplbGVtZW50IG5hbWU9IlJpdmVyQ2xhc3MiPgogICAgICAgICAgPHhzOmNvbXBsZXhUeXBlPgogICAgICAgICAgICA8eHM6c2VxdWVuY2U+CiAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbWF4T2NjdXJzPSJ1bmJvdW5kZWQiIG1pbk9jY3Vycz0iMCIgbmFtZT0iUmVhbHRpbWVXYXRlckxldmVsIj4KICAgICAgICAgICAgICAgIDx4czpjb21wbGV4VHlwZT4KICAgICAgICAgICAgICAgICAgPHhzOnNlcXVlbmNlPgogICAgICAgICAgICAgICAgICAgIDx4czplbGVtZW50IG5hbWU9IlJlY29yZFRpbWUiIHR5cGU9InhzOmRhdGVUaW1lIi8+CiAgICAgICAgICAgICAgICAgICAgPHhzOmVsZW1lbnQgbmFtZT0iU3RhdGlvbklkZW50aWZpZXIiIHR5cGU9InhzOnN0cmluZyIvPgogICAgICAgICAgICAgICAgICAgIDx4czplbGVtZW50IG5hbWU9IldhdGVyTGV2ZWwiIHR5cGU9InhzOmZsb2F0Ii8+CiAgICAgICAgICAgICAgICAgIDwveHM6c2VxdWVuY2U+CiAgICAgICAgICAgICAgICA8L3hzOmNvbXBsZXhUeXBlPgogICAgICAgICAgICAgIDwveHM6ZWxlbWVudD4KICAgICAgICAgICAgPC94czpzZXF1ZW5jZT4KICAgICAgICAgIDwveHM6Y29tcGxleFR5cGU+CiAgICAgICAgPC94czplbGVtZW50PgogICAgICA8L3hzOnNlcXVlbmNlPgogICAgPC94czpjb21wbGV4VHlwZT4KICA8L3hzOmVsZW1lbnQ+CjwveHM6c2NoZW1hPgo=</list>
+  </attribute>
+</metadata>
